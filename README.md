@@ -27,6 +27,11 @@
 - 📫 How to reach me ...
 -     I am glad that you wanna reach out to me. You can say an Hi though my webiste ! https://dhanushvardhan.herokuapp.com/
 
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dhanush17-tech&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+
 <!---
 dhanush17-tech/dhanush17-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
