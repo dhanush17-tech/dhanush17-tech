@@ -1,3 +1,4 @@
+
 # 👋 **Hi, Dhanush here !**
 
 
@@ -10,40 +11,44 @@ A high school fullstack developer who is very passionate about learning new skil
 
       I love updating my skills and these are just for now ....
       
-      - Flutter 
+     - Flutter 
       
-      - Firebase
+     - Firebase
       
-      - MongoDB
+     - MongoDB
       
-      - Express 
+     - Express 
       
-      - NodeJS
+     - NodeJS
       
-      - Git
+     - Git
       
-      - npm 
+     - npm 
       
-      - Python
+     - Python
       
-      - Supabase
+     - Supabase
 
     
 - 💞️ I’m looking to collaborate on ...
 
-      - I am open to freelancing and love would to make your startups soar high 🚀
+     - I am open to freelancing and love would to make your startups soar high 🚀
       
-      - Find on Fiverr https://www.fiverr.com/share/d7gr3Y !
+     - Find on [Fiverr](www.fiverr.com/share/d7gr3Y)
       
       - You can DM me from my website !
      
+                       
+
 - 📫 How to reach me ...
 
-      - I am glad that you wanna reach out to me. You can say an Hi though my webiste! https://dhanushvardhan.netlify.com/
+   -  [Portfolio Website](dhanushvardhan.netlify.com) 
 
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dhanush17-tech&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+ -  ⚡GitHub Stats</summary>
+ 
+ 
+     [![GitHub Streak](https://streak-stats.demolab.com?user=dhanush17-tech&theme=prussian)](https://git.io/streak-stats)
 
 
 <!---
