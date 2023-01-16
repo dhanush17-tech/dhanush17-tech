@@ -9,7 +9,7 @@ A high school fullstack developer who is very passionate about learning new skil
 
 - 👀 I’m interested in ...
 
-      I love updating my skills and these are just for now ....
+     I love updating my skills and these are just for now ....
       
      - Flutter 
       
@@ -36,7 +36,7 @@ A high school fullstack developer who is very passionate about learning new skil
       
      - Find on [Fiverr](www.fiverr.com/share/d7gr3Y)
       
-      - You can DM me from my website !
+     - You can DM me from my website !
      
                        
 
