@@ -46,7 +46,7 @@
       - Find on Fiverr https://www.fiverr.com/share/d7gr3Y
      
 - 📫 How to reach me ...
--     I am glad that you wanna reach out to me. You can say an Hi though my webiste! https://dhanushvardhan.netlify.com/
+      - I am glad that you wanna reach out to me. You can say an Hi though my webiste! https://dhanushvardhan.netlify.com/
 
   <summary>:zap: GitHub Stats</summary>
 
