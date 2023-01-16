@@ -41,11 +41,12 @@
 
       - I am open to freelancing and love would to make your startups soar high 🚀
       
-      - You can contact me through my website https://dhanushvardhan.netlify.com/ 
+      - Find on Fiverr https://www.fiverr.com/share/d7gr3Y !
       
-      - Find on Fiverr https://www.fiverr.com/share/d7gr3Y
+      - You can DM me from my website !
      
 - 📫 How to reach me ...
+
       - I am glad that you wanna reach out to me. You can say an Hi though my webiste! https://dhanushvardhan.netlify.com/
 
   <summary>:zap: GitHub Stats</summary>
