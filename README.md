@@ -1,9 +1,8 @@
 
-# 👋 **Hi, Dhanush here !**
+# 👋 **Hey, Dhanush here !**
 
 
-![alt text](https://media.licdn.com/dms/image/C4D16AQHJuaaT5VtQRA/profile-displaybackgroundimage-shrink_350_1400/0/1653039552709?e=1679529600&v=beta&t=BsaBUL-o3qNZm_nl7i7Zdf5MGRLqTA9d0WEXHs4eTRM)
-
+![alt text](https://media.licdn.com/dms/image/C4D16AQHJuaaT5VtQRA/profile-displaybackgroundimage-shrink_350_1400/0/1653039552709?e=1689206400&v=beta&t=NinAgla2MdgGNJqkNMWdceQ-9lCo-pz6e2afbBrHMzk)
 
 A high school fullstack developer who is very passionate about learning new skills and updating myself with the latest of technologies. My area of expertise include NodeJS, Flutter, Firebase, MongoDB and more such fullstack technologies. I love food and travel and am living with the desire to be placed at one of those FAANG companies. I love to connect with new people . . . . 
 
