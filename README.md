@@ -2,13 +2,13 @@
 # 👋 **Hey, Dhanush here !**
 
 
-![alt text](https://media.licdn.com/dms/image/C4D16AQHJuaaT5VtQRA/profile-displaybackgroundimage-shrink_350_1400/0/1653039552709?e=1689206400&v=beta&t=NinAgla2MdgGNJqkNMWdceQ-9lCo-pz6e2afbBrHMzk)
+[image](https://media.licdn.com/dms/image/C4D16AQHJuaaT5VtQRA/profile-displaybackgroundimage-shrink_350_1400/0/1653039552709?e=1689206400&v=beta&t=NinAgla2MdgGNJqkNMWdceQ-9lCo-pz6e2afbBrHMzk)
 
-Hey there! I'm aa fullstack developer who's totally into coding and loves exploring the latest tech stuff. I'm all about rocking NodeJS, Flutter, Firebase, MongoDB, and more awesome technologies. When I'm not geeking out with code, you'll find me chowing down on delicious food and satisfying my wanderlust with some epic travel adventures. My dream? Landing a gig at one of those super cool tech spaces. I'm all about connecting with new folks, so hit me up if you want to chat about tech !
+Hey there! I'm a fullstack developer who's totally into coding and loves exploring the latest tech stuff. I'm all about rocking NodeJS, Flutter, Firebase, MongoDB, and more awesome technologies. When I'm not geeking out with code, you'll find me chowing down on delicious food and satisfying my wanderlust with some epic travel adventures. My dream? Landing a gig at one of those super cool tech spaces. I'm all about connecting with new folks, so hit me up if you want to chat about tech!
 
 - 👀 I’m interested in ...
 
-     I love updating my skills and these are just for now ....
+     I love updating my skills and these are just for now....
       
      - Flutter 
       
@@ -31,11 +31,11 @@ Hey there! I'm aa fullstack developer who's totally into coding and loves explor
     
 - 💞️ I’m looking to collaborate on ...
 
-     - I am open to freelancing and love would to make your startups soar high 🚀
+     - I am open to freelancing and would love to make your startups soar high 🚀
       
      - Find on [Fiverr](www.fiverr.com/share/d7gr3Y)
       
-     - You can DM me from my website !
+     - You can DM me from my website!
      
                        
 
