@@ -40,7 +40,7 @@ Hey there! I'm a fullstack developer who's totally into coding and loves explori
 
 - 📫 How to reach me ...
 
-   -  [Portfolio Website](dhanushvardhan.netlify.com) 
+   -  [Portfolio Website](https://geekydan.dev) 
 
 
  -  ⚡GitHub Stats</summary>
